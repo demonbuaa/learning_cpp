@@ -2,3 +2,4 @@ exp2
 main
 *.o
 *.log
+*.exe

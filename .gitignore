@@ -1,3 +1,4 @@
 exp2
 main
 *.o
+*.log
